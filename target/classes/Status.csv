@@ -1,0 +1,193 @@
+State,CloudClass,Name,Submitter,CreateDate
+Running,serviceofferinginstance,eXtreme Java Platform Test-2270,,4/21/13 13:32
+Running,serviceofferinginstance,eXtreme Java Platform Test-2271,XBBLDHA,4/21/13 16:21
+Running,serviceofferinginstance,eXtreme Java Platform Test-2272,XBBLDHA,4/21/13 17:20
+Decommissioning,serviceofferinginstance,HC Linux TPC-13,ADCWJBJ,4/22/13 0:51
+Decommissioning,serviceofferinginstance,HC Windows TPC-35,ADCWJBJ,4/22/13 0:52
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2273,ADCWJBJ,4/22/13 0:55
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-740,ADCWJBJ,4/22/13 1:03
+Decommissioning,serviceofferinginstance,HC Linux CNJ-15,ADCWJBJ,4/22/13 1:56
+Decommissioning,serviceofferinginstance,HC Windows CNJ-29,ADCWJBJ,4/22/13 2:00
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Production-281,ADCWJBJ,4/22/13 2:09
+Decommissioning,serviceofferinginstance,Sanity Test-5,ADCX9T4,4/22/13 4:20
+Running,serviceofferinginstance,eXtreme Java Platform Test-2274,XBBKK58,4/22/13 4:25
+Running,serviceofferinginstance,BNYM DBaaS SQL Server-79,XBBKQP5,4/22/13 6:02
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-741,XBBJVJH,4/22/13 7:36
+Running,serviceofferinginstance,eXtreme Java Platform Test-2275,XBBJ3MT,4/22/13 8:04
+Decommissioning,serviceofferinginstance,XenAppTestCNJ04222013-1,XBBJ79C,4/22/13 8:19
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-742,XBBKDNW,4/22/13 8:29
+Running,serviceofferinginstance,Non Production Windows-825,XBBJ9V1,4/22/13 9:06
+Running,serviceofferinginstance,Non Production Windows-826,XBBJ9V1,4/22/13 9:08
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-743,XBBJVJH,4/22/13 9:23
+Running,serviceofferinginstance,Non Production Windows-827,XBBJ9V1,4/22/13 9:26
+Decommissioning,serviceofferinginstance,XBBJS9G-AIFMD Development Environment3-5,XBBKJR0,4/22/13 9:40
+Decommissioning,serviceofferinginstance,XBBJS9G-AIFMD Development Environment4-4,XBBKJR0,4/22/13 9:46
+Running,serviceofferinginstance,eXtreme Java Platform Test-2276,XBBKDNW,4/22/13 10:00
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-744,XJ60PWS,4/22/13 10:16
+Running,serviceofferinginstance,XBBJS9G-AIFMD Development Environment3-6,XBBKJR0,4/22/13 10:47
+Running,serviceofferinginstance,XBBJS9G-AIFMD Development Environment4-5,XBBKJR0,4/22/13 10:52
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-745,APDPSM14,4/22/13 10:56
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-746,APDPSM14,4/22/13 10:57
+Running,serviceofferinginstance,Non production Linux-998,SUSSVM1,4/22/13 10:59
+Running,serviceofferinginstance,eXtreme Java Platform Test-2277,XBV0DKB,4/22/13 11:17
+Running,serviceofferinginstance,eXtreme Java Platform Test-2278,XBV0DKB,4/22/13 11:19
+Running,serviceofferinginstance,eXtreme Java Platform Test-2279,ABMWBG1,4/22/13 11:51
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2280,XSTF3CR,4/22/13 12:00
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2281,XSTF3CR,4/22/13 12:02
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Production-282,APDPOM1,4/22/13 12:15
+Running,serviceofferinginstance,eXtreme Java Platform Test-2282,XSTF3CR,4/22/13 12:45
+Decommissioning,serviceofferinginstance,CNJLinuxTest04222013-1,XBBJ79C,4/22/13 12:51
+Running,serviceofferinginstance,eXtreme Java Platform Test-2283,XSTF3CR,4/22/13 13:35
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-747,APDPSM14,4/22/13 13:37
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2284,ASPATM2,4/22/13 13:56
+Running,serviceofferinginstance,eXtreme Java Platform Production-283,APDPOM1,4/22/13 14:02
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Production-284,APDPOM1,4/22/13 14:11
+Installed,serviceofferinginstance,eXtreme Java Platform Test-2285,XJ60PWS,4/22/13 14:25
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-748,XJ60PWS,4/22/13 14:55
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2286,XJ60PWS,4/22/13 15:09
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-749,APDPSM32,4/22/13 15:17
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-750,APDPSM32,4/22/13 15:20
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-751,APDPSM32,4/22/13 15:23
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-752,APDPSM32,4/22/13 15:25
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-753,APDPSM32,4/22/13 15:27
+Running,serviceofferinginstance,BNYM DBaaS SQL Server-80,XBBJM1Q,4/22/13 15:27
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-754,APDPSM32,4/22/13 15:28
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-755,ADCXQPG,4/22/13 15:53
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-756,APDPHP1,4/22/13 16:20
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-757,APDPHP1,4/22/13 16:24
+Running,serviceofferinginstance,BOBJ Sandbox-1,XECCDJ6,4/22/13 16:43
+Decommissioning,serviceofferinginstance,HC Linux-2,ADCWJBJ,4/23/13 1:06
+Running,serviceofferinginstance,eXtreme Java Platform Test-2287,XBBKK58,4/23/13 1:07
+Decommissioning,serviceofferinginstance,HC Windows TPC-36,ADCWJBJ,4/23/13 1:08
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2288,ADCWJBJ,4/23/13 1:11
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Prod CNJ Single Instance-16,ADCWJBJ,4/23/13 1:14
+Decommissioning,serviceofferinginstance,HC  Linux CNJ-3,ADCWJBJ,4/23/13 2:11
+Decommissioning,serviceofferinginstance,HC Windows CNJ-30,ADCWJBJ,4/23/13 2:14
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-758,ADCWJBJ,4/23/13 2:17
+Running,serviceofferinginstance,eXtreme Java Platform Test-2289,XBBKGHX,4/23/13 2:29
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-759,XBBJVJH,4/23/13 3:14
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2290,APDPRT5,4/23/13 3:46
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2291,APDPRT5,4/23/13 3:49
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2292,XBBKDNW,4/23/13 4:10
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-760,XBBKP9N,4/23/13 4:43
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-761,APDPSK31,4/23/13 5:00
+Running,serviceofferinginstance,eXtreme Java Platform Test-2293,XBBKK58,4/23/13 5:24
+Running,serviceofferinginstance,eXtreme Java Platform Test-2294,APDPBR7,4/23/13 5:33
+Running,serviceofferinginstance,eXtreme Java Platform Test-2295,APDPSK31,4/23/13 6:19
+Running,serviceofferinginstance,eXtreme Java Platform Test-2296,APDPSK31,4/23/13 6:34
+Running,serviceofferinginstance,eXtreme Java Platform Test-2297,XBBKDNW,4/23/13 7:16
+Running,serviceofferinginstance,eXtreme Java Platform Test-2298,XJ60PWS,4/23/13 7:49
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-762,XBBKK18,4/23/13 9:04
+Running,serviceofferinginstance,eXtreme Java Platform Test-2299,XBBJSQF,4/23/13 9:36
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-763,APDPKP6,4/23/13 9:42
+Running,serviceofferinginstance,eXtreme Java Platform Test-2300,XBBKGHX,4/23/13 9:52
+Running,serviceofferinginstance,eXtreme Java Platform Prod CNJ Single Instance-17,APDPOM1,4/23/13 9:59
+Running,serviceofferinginstance,eXtreme Java Platform Prod TPC Single Instance-19,APDPOM1,4/23/13 10:02
+Running,serviceofferinginstance,eXtreme Java Platform Production-285,APDPOM1,4/23/13 10:15
+Running,serviceofferinginstance,eXtreme Java Platform Production-286,APDPOM1,4/23/13 10:21
+Running,serviceofferinginstance,eXtreme Java Platform Test-2301,XJG6YZL,4/23/13 10:28
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-764,APDPHP1,4/23/13 10:58
+Running,serviceofferinginstance,"Lab:XYZCorp:inautilus,CNJ,xyzcorp.example.partition:examplesite:0.0.1-SNAPSHOT-1",XECC3C1,4/23/13 11:06
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-765,APDPKP6,4/23/13 11:27
+Running,serviceofferinginstance,eXtreme Java Platform Test-2302,XBV0DKB,4/23/13 11:31
+Running,serviceofferinginstance,eXtreme Java Platform Test-2303,XBV0DKB,4/23/13 11:33
+Decommissioning,serviceofferinginstance,SHP 2013 - 1-1,XBBKJR0,4/23/13 11:34
+Running,serviceofferinginstance,Office Web Apps 2013 - 1-1,XBBKJR0,4/23/13 11:38
+Running,serviceofferinginstance,eXtreme Java Platform Test-2304,XBV0DKB,4/23/13 11:38
+Running,serviceofferinginstance,eXtreme Java Platform Test-2305,XBV0DKB,4/23/13 11:40
+Running,serviceofferinginstance,eXtreme Java Platform Test-2306,XBV0DKB,4/23/13 11:44
+Running,serviceofferinginstance,eXtreme Java Platform Test-2307,ASPATM2,4/23/13 11:46
+Running,serviceofferinginstance,eXtreme Java Platform Test-2308,XBV0DKB,4/23/13 11:46
+Running,serviceofferinginstance,eXtreme Java Platform Test-2309,XBV0DKB,4/23/13 11:48
+Running,serviceofferinginstance,eXtreme Java Platform Test-2310,XBV0DKB,4/23/13 11:49
+Running,serviceofferinginstance,eXtreme Java Platform Test-2311,XBV0DKB,4/23/13 11:51
+Running,serviceofferinginstance,eXtreme Java Platform Test-2312,ABMWBG1,4/23/13 12:46
+Running,serviceofferinginstance,eXtreme Java Platform Test-2313,ASPATM2,4/23/13 13:59
+Decommissioning,serviceofferinginstance,XenAppTPCTest04232013-1,XBBJ79C,4/23/13 14:14
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2314,XBBLDHA,4/23/13 14:17
+Running,serviceofferinginstance,eXtreme Java Platform Test-2315,XJ60PWS,4/23/13 14:37
+Running,serviceofferinginstance,eXtreme Java Platform Test-2316,AMDSRT3,4/23/13 14:56
+Running,serviceofferinginstance,eXtreme Java Platform Test-2317,XBBLDHA,4/23/13 15:12
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-766,XBBKR49,4/23/13 16:24
+Running,serviceofferinginstance,eXtreme Java Platform Test-2318,ASPATM2,4/23/13 16:25
+Running,serviceofferinginstance,eXtreme Java Platform Test-2319,XBBLDHA,4/23/13 16:26
+Running,serviceofferinginstance,eXtreme Java Platform Test-2320,APDPAM16,4/23/13 18:26
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-767,APDPAM16,4/23/13 18:28
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2321,APDPAM16,4/23/13 18:30
+Decommissioning,serviceofferinginstance,Sanity Test-6,ADCX63K,4/23/13 21:11
+Decommissioning,serviceofferinginstance,Sanity Test-7,ADCX63K,4/23/13 21:41
+Decommissioning,serviceofferinginstance,HC Linux TPC-14,ADCWJBJ,4/24/13 0:36
+Decommissioning,serviceofferinginstance,HC Windows TPC-37,ADCWJBJ,4/24/13 0:37
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-768,ADCWJBJ,4/24/13 0:40
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2322,ADCWJBJ,4/24/13 0:43
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Production-287,ADCWJBJ,4/24/13 1:56
+Decommissioning,serviceofferinginstance,HC  Windows CNJ-5,ADCWJBJ,4/24/13 2:00
+Decommissioning,serviceofferinginstance,HC Linux CNJ-16,ADCWJBJ,4/24/13 2:02
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-769,XBBJVJH,4/24/13 7:35
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-770,XBBKN1T,4/24/13 8:58
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2323,XECC3C1,4/24/13 9:15
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2324,XECC3C1,4/24/13 9:19
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2325,XECC3C1,4/24/13 9:21
+Running,serviceofferinginstance,Non Production Windows-828,XJZ2Q79,4/24/13 10:25
+Decommissioning,serviceofferinginstance,Non Production Windows-829,XBBKGTU,4/24/13 10:35
+Installed,serviceofferinginstance,eXtreme Java Platform Non Prod-771,ADCXTPJ,4/24/13 10:39
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-772,ADCXQPG,4/24/13 10:40
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-773,AMRVHR1,4/24/13 10:48
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-774,XBBJVJH,4/24/13 10:50
+Running,serviceofferinginstance,Omgeo Tapestry Sandbox-1,XF9W4Q0,4/24/13 10:56
+Running,serviceofferinginstance,eXtreme Java Platform Test-2326,ADCCFTJ,4/24/13 11:16
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2327,XBBKGLW,4/24/13 11:56
+Decommissioning,serviceofferinginstance,Non Production Windows-830,XBBKGTU,4/24/13 12:27
+Running,serviceofferinginstance,Non Production Linux-999,XBBKL7I,4/24/13 12:50
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2328,XECC5L0,4/24/13 13:09
+Decommissioning,serviceofferinginstance,XenAppTPCTest04242013-1,XBBJ79C,4/24/13 13:11
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2329,XBBKGLW,4/24/13 13:13
+Decommissioning,serviceofferinginstance,XenAppCNJTest04242013-1,XBBJ79C,4/24/13 13:54
+Decommissioning,serviceofferinginstance,XenAppTPCTest04242013-2,XBBJ79C,4/24/13 14:36
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-775,XBBKQP1,4/24/13 14:43
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2330,XBBKGLW,4/24/13 14:51
+Decommissioning,serviceofferinginstance,XenAppTPCTest04242013-3,XBBJ79C,4/24/13 15:20
+Running,serviceofferinginstance,XenAppCNJTest04242013-2,XBBJ79C,4/24/13 15:53
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2332,XECC5L0,4/24/13 17:07
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-776,ADCXTPJ,4/24/13 18:06
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2333,XJG6YZL,4/24/13 19:02
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Test-2331,XBBKGLW,4/24/13 16:01
+Decommissioning,serviceofferinginstance,XenAppTPCTest04242013-4,XBBJ79C,4/24/13 16:05
+Running,serviceofferinginstance,eXtreme Java Platform Test-2334,XFPVK2I,4/24/13 21:46
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-777,ADCX63K,4/24/13 21:46
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-778,ADCX63K,4/24/13 22:56
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-779,ADCX63K,4/24/13 23:32
+Decommissioning,serviceofferinginstance,Sanity Test-8,ADCWJBJ,4/25/13 0:28
+Decommissioning,serviceofferinginstance,HC Linux TPC-15,ADCWJBJ,4/25/13 1:21
+Decommissioning,serviceofferinginstance,HC  Windows TPC-7,ADCWJBJ,4/25/13 1:24
+Decommissioning,serviceofferinginstance,HC  Windows CNJ-6,ADCWJBJ,4/25/13 2:05
+Running,serviceofferinginstance,eXtreme Java Platform Test-2335,XBBKK58,4/25/13 2:08
+Decommissioning,serviceofferinginstance,HC Windows TPC-38,ADCWJBJ,4/25/13 2:41
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-780,ADCWJBJ,4/25/13 2:48
+Decommissioning,serviceofferinginstance,HC Windows-3,ADCWJBJ,4/25/13 4:50
+Running,serviceofferinginstance,Non Production Windows-831,XBBKGTU,4/25/13 4:54
+Running,serviceofferinginstance,Non Production Windows-832,XBBKCQB,4/25/13 6:03
+Running,serviceofferinginstance,NonProdLinux-1,ADCCMRR,4/25/13 6:22
+Running,serviceofferinginstance,eXtreme Java Platform Production-288,ADCWJBJ,4/25/13 6:25
+Running,serviceofferinginstance,Non Production Windows-833,XBBKCQB,4/25/13 6:34
+Running,serviceofferinginstance,Non Production Windows-834,XBBKCQB,4/25/13 6:36
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-781,XBBJ297,4/25/13 6:59
+Running,serviceofferinginstance,eXtreme Java Platform Test-2336,XBBJCG8,4/25/13 7:04
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-782,XBBJ294,4/25/13 7:18
+Running,serviceofferinginstance,eXtreme Java Platform Test-2337,XBBKN9F,4/25/13 7:57
+Running,serviceofferinginstance,eXtreme Java Platform Test-2338,XBBKN9F,4/25/13 8:32
+Running,serviceofferinginstance,Non Production Linux-1000,XEDD2DG,4/25/13 8:33
+Running,serviceofferinginstance,Non Production Linux-1001,XEDD2DG,4/25/13 8:39
+Running,serviceofferinginstance,eXtreme Java Platform Test-2339,XBBKN9F,4/25/13 8:45
+Running,serviceofferinginstance,eXtreme Java Platform Test-2340,XBBKN9F,4/25/13 8:54
+Running,serviceofferinginstance,eXtreme Java Platform Production-289,APDPOM1,4/25/13 10:17
+Decommissioning,serviceofferinginstance,eXtreme Java Platform Non Prod-783,ADCXTPJ,4/25/13 10:57
+Running,serviceofferinginstance,Non Production Windows-835,XBBKCQB,4/25/13 11:00
+Running,serviceofferinginstance,Non Production Windows-836,XBBKCQB,4/25/13 11:01
+Running,serviceofferinginstance,eXtreme Java Platform Production-290,APDPOM1,4/25/13 11:20
+Running,serviceofferinginstance,Alerts DBaaS Oracle Server - DEV-1,ADCXK6J,4/25/13 11:28
+Running,serviceofferinginstance,eXtreme Java Platform Test-2341,XBBKGTU,4/25/13 11:36
+Running,serviceofferinginstance,SP 2013 - 2-1,XBBKJR0,4/25/13 11:57
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-784,ADCXTPJ,4/25/13 12:18
+Running,serviceofferinginstance,eXtreme Java Platform Non Prod-785,XBBKRHL,4/25/13 12:21
+Provisioning,serviceofferinginstance,eXtreme Java Platform Test-2342,XFPVK2I,4/25/13 13:12

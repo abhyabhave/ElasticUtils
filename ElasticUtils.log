@@ -1,0 +1,146 @@
+2016-03-15 12:17:53 INFO  Main:11 - Started Main
+2016-03-15 12:20:30 INFO  Main:12 - Started Main
+2016-03-15 12:20:30 INFO  ConnectionManager:22 - Reading the configuration file to create connection
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 12:20:30 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 12:20:30 INFO  plugins:180 - [Ashcan] modules [], plugins [], sites []
+2016-03-15 12:20:31 INFO  ConnectionManager:30 - Connected to the elasticSearch server.
+2016-03-15 14:22:20 INFO  Main:12 - Started Main
+2016-03-15 14:22:20 INFO  ConnectionManager:23 - Reading the configuration file to create connection
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:22:20 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:22:20 INFO  plugins:180 - [Johnny Storm] modules [], plugins [], sites []
+2016-03-15 14:22:21 INFO  ConnectionManager:31 - Connected to the elasticSearch server.
+2016-03-15 14:22:43 INFO  Main:12 - Started Main
+2016-03-15 14:22:43 INFO  ConnectionManager:23 - Reading the configuration file to create connection
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:22:43 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:22:43 INFO  plugins:180 - [Entropic Man] modules [], plugins [], sites []
+2016-03-15 14:22:43 INFO  ConnectionManager:31 - Connected to the elasticSearch server.
+2016-03-15 14:33:52 INFO  Main:14 - Started Main
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:33:52 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:33:52 INFO  plugins:180 - [Sunstreak] modules [], plugins [], sites []
+2016-03-15 14:33:53 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-15 14:33:53 INFO  indexUtils:19 - Checking if inedx status exists
+2016-03-15 14:36:06 INFO  Main:14 - Started Main
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:36:06 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:36:06 INFO  plugins:180 - [Melter] modules [], plugins [], sites []
+2016-03-15 14:36:07 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-15 14:36:07 INFO  indexUtils:19 - Checking if inedx status exists
+2016-03-15 14:36:37 INFO  Main:14 - Started Main
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:36:37 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:36:37 INFO  plugins:180 - [Antonio] modules [], plugins [], sites []
+2016-03-15 14:36:37 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-15 14:36:37 INFO  indexUtils:19 - Checking if inedx status exists
+2016-03-15 14:48:39 INFO  Main:14 - Started Main
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:48:39 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:48:39 INFO  plugins:180 - [Black Bolt] modules [], plugins [], sites []
+2016-03-15 14:48:40 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-15 14:48:40 INFO  indexUtils:21 - Checking if inedx status exists
+2016-03-15 14:48:40 INFO  indexUtils:29 - Cloud not find index
+2016-03-15 14:50:13 INFO  Main:14 - Started Main
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-15 14:50:13 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-15 14:50:13 INFO  plugins:180 - [Marvel Boy] modules [], plugins [], sites []
+2016-03-15 14:50:14 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-15 14:50:14 INFO  indexUtils:21 - Checking if inedx status exists
+2016-03-15 14:50:14 INFO  indexUtils:29 - Cloud not find index
+2016-03-15 14:50:14 INFO  indexUtils:34 - Creating an index with name status
+2016-03-15 14:50:14 INFO  indexUtils:42 - Created index status
+2016-03-15 14:50:14 INFO  indexUtils:21 - Checking if inedx status exists
+2016-03-15 14:50:14 INFO  indexUtils:26 - Found index. Index exists
+2016-03-16 22:40:53 INFO  Main:16 - Started Main
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-16 22:40:53 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-16 22:40:53 INFO  plugins:180 - [Azazel] modules [], plugins [], sites []
+2016-03-16 22:40:54 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-16 22:40:54 INFO  indexUtils:25 - Checking if inedx status exists
+2016-03-16 22:40:54 INFO  indexUtils:29 - Found index. Index exists
+2016-03-16 22:40:54 INFO  indexUtils:37 - Creating an index with name status
+2016-03-16 22:41:33 INFO  Main:16 - Started Main
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-16 22:41:33 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-16 22:41:33 INFO  plugins:180 - [Nomad] modules [], plugins [], sites []
+2016-03-16 22:41:34 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-16 22:41:34 INFO  indexUtils:25 - Checking if inedx status exists
+2016-03-16 22:41:34 INFO  indexUtils:29 - Found index. Index exists
+2016-03-16 22:41:34 INFO  indexUtils:49 - Deleting the index status
+2016-03-16 22:41:34 INFO  indexUtils:56 - Deleted index status
+2016-03-16 22:41:34 INFO  indexUtils:37 - Creating an index with name status
+2016-03-16 22:41:34 INFO  indexUtils:44 - Created index status
+2016-03-16 22:41:34 INFO  indexUtils:25 - Checking if inedx status exists
+2016-03-16 22:41:34 INFO  indexUtils:29 - Found index. Index exists
+2016-03-16 22:42:14 INFO  Main:16 - Started Main
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:20 - Found configuration file.
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:36 - Loaded configuration: 
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:37 - hostName : localhost
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:38 - Port : 9300
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:39 - clusterName : abbhave
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:40 - indexName : status
+2016-03-16 22:42:14 INFO  ElasticConfigurationReader:41 - Operation : Append
+2016-03-16 22:42:14 INFO  plugins:180 - [Martin Gold] modules [], plugins [], sites []
+2016-03-16 22:42:15 INFO  ConnectionManager:29 - Connected to the elasticSearch server.
+2016-03-16 22:42:15 INFO  indexUtils:25 - Checking if inedx status exists
+2016-03-16 22:42:15 INFO  indexUtils:29 - Found index. Index exists
+2016-03-16 22:42:15 INFO  indexUtils:49 - Deleting the index status
+2016-03-16 22:42:15 INFO  indexUtils:56 - Deleted index status
+2016-03-16 22:42:15 INFO  indexUtils:25 - Checking if inedx status exists
+2016-03-16 22:42:15 INFO  indexUtils:32 - Cloud not find index
+2016-03-16 22:42:15 INFO  indexUtils:37 - Creating an index with name status
+2016-03-16 22:42:15 INFO  indexUtils:44 - Created index status
+2016-03-16 22:42:15 INFO  indexUtils:25 - Checking if inedx status exists
+2016-03-16 22:42:15 INFO  indexUtils:29 - Found index. Index exists
