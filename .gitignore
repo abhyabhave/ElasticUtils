@@ -1,2 +1,6 @@
 *.txt
-.*
+target/*
+.classpath
+.project
+.settings/*
+*.log*
