@@ -43,16 +43,23 @@ public class IndexUtils {
 			data = null;
 			logger.info("The file has "+headers.size()+ " columns. Scanned them in as headers");
 			while((line = buffer.readLine())!=null) {
+			 	int coutner = 0;
 				data = Arrays.asList(line.split(","));
 				for(int i=0; i <headers.size(); i++ ) {
 					json.put(headers.get(i), data.get(i));
+				}
+				indexOperations.insertIndex(indexName, json);
 					String mapasJson = new ObjectMapper().writeValueAsString(json);
 					if(!indexOperations.indexExists(indexName)){
 						indexOperations.createIndex(indexName);
 					}
+					logger.info("********************************************************************************************************************************");
+					logger.info(mapasJson);
+					//indexOperations.insertIndex(indexName, mapasJson);
 					indexOperations.appendIndex(indexName, mapasJson);
 				}
-			}
+			logger.info("********************************************************************************************************************************");
+			
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
